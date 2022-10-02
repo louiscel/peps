@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">peps</string>
+    <string name="tab_text_1">M\'identifier</string>
+    <string name="tab_text_2">Signaler</string>
+</resources>
